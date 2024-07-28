@@ -164,3 +164,4 @@ cython_debug/
 .vscode
 cs
 math
+config.yaml
